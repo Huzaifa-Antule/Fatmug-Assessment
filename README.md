@@ -124,9 +124,15 @@ If you prefer to use Docker for containerizing the application, follow these ste
 1. **Uploading Videos**: you can upload videos via the web interface. The application will extract subtitles from the video automatically.
 2. **Search Subtitles**: You can search within the subtitles and navigate to the specific timestamp in the video by clicking on the search result.
 
+## Screenshots
+![ScreenShots](https://github.com/Huzaifa-Antule/Fatmug-Assessment/blob/6d52392e3dce42a28e3ee8e7eb8561a5a0b01118/Screenshots/commands.JPG)
+![ScreenShots](https://github.com/Huzaifa-Antule/Fatmug-Assessment/blob/6d52392e3dce42a28e3ee8e7eb8561a5a0b01118/Screenshots/Details%20Page.JPG)
+![ScreenShots](https://github.com/Huzaifa-Antule/Fatmug-Assessment/blob/6d52392e3dce42a28e3ee8e7eb8561a5a0b01118/Screenshots/Searching.JPG)
+
+
 ## License
 
-This project is licensed under the MIT License - see the https://github.com/Huzaifa-Antule/Fatmug-Assessment?tab=MIT-1-ov-file file for details.
+This project is licensed under the MIT License - see the [MIT](https://github.com/Huzaifa-Antule/Fatmug-Assessment?tab=MIT-1-ov-file) file for details.
 
 ## Contributing
 
