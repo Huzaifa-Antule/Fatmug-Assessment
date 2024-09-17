@@ -126,7 +126,7 @@ If you prefer to use Docker for containerizing the application, follow these ste
 
 ## License
 
-This project is licensed under the MIT License - see the MIT file for details.
+This project is licensed under the MIT License - see the https://github.com/Huzaifa-Antule/Fatmug-Assessment?tab=MIT-1-ov-file file for details.
 
 ## Contributing
 
@@ -141,6 +141,4 @@ This project is licensed under the MIT License - see the MIT file for details.
 - Large videos can decrease the performance of the application.
 - some .mkv or other files create issue for jumping on timestamps and skipping issue.
 - Subtitles are stored in media folder, hard to retrieve from PostgreSQLdatabase.
-```
 
-This README includes everything from installation, setup, and usage, to database configuration and Docker setup, following best practices for a GitHub project.
